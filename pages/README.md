@@ -1,6 +1,16 @@
-# PAGES
+# Company Profile Website
 
-This directory contains your Application Views and Routes.
-The framework reads all the `*.vue` files inside this directory and creates the router of your application.
+Website Company Profile ini dibuat menggunakan **Nuxt.js 2**, **Node.js v16**, dan **Bootstrap**.
 
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/guide/routing).
+---
+
+## ⚙️ Persyaratan
+
+Pastikan sudah terinstall di komputer Anda:
+
+- **Node.js v16**
+- **NPM** atau **Yarn**
+
+Cek versi Node:
+```bash
+node -v
