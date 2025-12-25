@@ -1,22 +1,18 @@
-# apiton
+# Safaqita
 
-> Apiton - Vue Nuxt App Landing Page Template
+> Safaqita adalah website **Company Profile / Landing Page** yang dikembangkan menggunakan **Vue.js dengan Nuxt.js 2**.  
+> Project ini dibuat untuk menampilkan informasi perusahaan secara profesional dengan tampilan modern, responsif, dan mudah dikembangkan menggunakan **Node.js v16** serta **Bootstrap**.
 
-## Build Setup
+---
 
-``` bash
-# install dependencies
-$ npm install
+## ⚙️ Persyaratan Sistem
 
-# serve with hot reload at localhost:3000
-$ npm run dev
+Sebelum menjalankan project Safaqita, pastikan lingkungan pengembangan Anda telah memenuhi persyaratan berikut:
 
-# build for production and launch server
-$ npm run build
-$ npm run start
+- **Node.js versi 16.x**
+- **NPM** (Node Package Manager)
+- Web browser terbaru (Google Chrome, Mozilla Firefox, atau sejenisnya)
 
-# generate static project
-$ npm run generate
-```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+Untuk memastikan versi Node.js yang digunakan sudah sesuai, jalankan perintah berikut:
+```bash
+node -v
